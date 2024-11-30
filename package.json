@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-xray-sdk": "^3.10.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
